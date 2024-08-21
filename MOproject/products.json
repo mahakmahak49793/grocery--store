@@ -1,0 +1,152 @@
+[{
+        "id": 1,
+        "name": " Dettol lime cool bathing soap",
+        "price": 200,
+        "image": "images/image1.jpg"
+    },
+    {
+        "id": 2,
+        "name": " Vacuum Cleaner(Efficient dust and debris remover.)",
+        "price": 250,
+        "image": "images/image2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Godrej No.1 Sandal and turmeric bath soap",
+        "price": 290,
+        "image": "images/image3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ezee winterwear, silks liquid detergent",
+        "price": 200,
+        "image": "images/image4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Harpic toilet and bathroom cleaner",
+        "price": 300,
+        "image": "images/image5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ariel complete detergent powder",
+        "price": 200,
+        "image": "images/image6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Durable PolyPropylene plastic tubs",
+        "price": 200,
+        "image": "images/image7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Multipurpose rubber reusable cleaning gloves",
+        "price": 200,
+        "image": "images/image8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Aristo Swing Lid Garbage Waste Dustbin",
+        "price": 200,
+        "image": "images/image9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Atomic Silver Cleaner to Clean Silver",
+        "price": 200,
+        "image": "images/image10.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Colin Glass & Household Cleaner Spray",
+        "price": 200,
+        "image": "images/image11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Stainless Steel Scrubber",
+        "price": 200,
+        "image": "images/image12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Cloth drying stainless steel stand",
+        "price": 200,
+        "image": "images/image13.webp"
+    },
+    {
+        "id": 14,
+        "name": "Plastic storage container/bucket",
+        "price": 200,
+        "image": "images/image14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Santoor liquid handwash",
+        "price": 200,
+        "image": "images/image15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "SATSUN enterprise easy cloth Washing Soap Roller",
+        "price": 200,
+        "image": "images/image16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Concentrated Washing Liquid for Car and Bike",
+        "price": 200,
+        "image": "images/image17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Active Wheel 2 in 1 Clean & Fresh Detergent B",
+        "price": 200,
+        "image": "images/image18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Ghadi Detergent Bar-Removes dirt,stains",
+        "price": 200,
+        "image": "images/image19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "2 Way Toilet Silicone Brush",
+        "price": 200,
+        "image": "images/image20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "B S NATURAL 3 Ply Toilet Paper Rolls",
+        "price": 200,
+        "image": "images/image21.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Set Includes Broom, Mop, Brush, Dust Pan",
+        "price": 200,
+        "image": "images/image22.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Cello Creta Laundry Basket with lid",
+        "price": 200,
+        "image": "images/image23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Pears soft fresh soap bar",
+        "price": 200,
+        "image": "images/image24.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Colin Glass & Household Cleaner Spray",
+        "price": 200,
+        "image": "images/image11.jpg"
+    }
+
+]
